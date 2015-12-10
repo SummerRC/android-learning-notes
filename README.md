@@ -1,4 +1,4 @@
 Android Learning Notes
 =======
 
-Android Learning Notes For SummerRC.Test.
+Android Learning Notes For SummerRC.
