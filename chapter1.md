@@ -9,3 +9,5 @@ GitBook allows you to organize your book into chapters, each chapter is stored i
 [谷歌官方Android学习文档](http://developer.android.com/intl/zh-cn/index.html)
 
 [谷歌官方Android学习文档中文版](https://github.com/SummerRC/android-training-course-in-chinese)
+
+[Android Gradle学习教程](http://avatarqing.github.io/Gradle-Plugin-User-Guide-Chinese-Verision/)
